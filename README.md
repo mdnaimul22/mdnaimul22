@@ -1,4 +1,4 @@
-![Header](header.png)
+
 
 <h1 align="center">mdnaimul22 // NEURAL ARCHITECT</h1>
 <p align="center">
