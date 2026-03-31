@@ -8,14 +8,14 @@
 
 ---
 
-### 🏆 Visual Achievement Matrix
+### 🏆 Achievement
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdnaimul22&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=mdnaimul22&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ⚡ Technical Skill Oracle
+### ⚡ Technical Skill
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,postgres,redis,nodejs,docker,aws,git,linux&perline=6" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 Deep System Diagnostics
+### 📊 System Diagnostics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimul22&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
