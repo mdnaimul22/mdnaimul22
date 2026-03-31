@@ -7,9 +7,8 @@
 </p>
 
 ---
-<p align="left">
-  ⭐ Open to collaboration • Let's build something extraordinary!
-</p>
+
+## Open to collaboration
 
 <div align="left">
   <a href="mailto:engineer.naimul@gmail.com">
