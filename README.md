@@ -7,52 +7,30 @@
 </p>
 
 ---
-<p align="left">
-  ⭐ Open to collaboration • Let's build something extraordinary!
-</p>
 
-<div align="left">
-  <a href="mailto:engineer.naimul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mdnaimul22/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-#### 🛠️ Infrastructure & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-#### ⚙️ Backend & Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-#### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+### 🏆 Visual Achievement Matrix
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnaimul22&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📊 System Diagnostics
+### ⚡ Technical Skill Oracle
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,postgres,redis,nodejs,docker,aws,git,linux&perline=6" />
+  </a>
+</p>
+
+---
+
+### 📊 Deep System Diagnostics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimul22&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
 <div align="center">
   <table border="0">
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdnaimul22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-      </td>
-    </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api?username=mdnaimul22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
@@ -61,5 +39,25 @@
         <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdnaimul22&theme=tokyonight&hide_border=true" alt="GitHub Streak">
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdnaimul22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+      </td>
+    </tr>
   </table>
+</div>
+
+---
+
+<p align="center">
+  ⭐ Open to collaboration • Let's build something extraordinary!
+</p>
+
+<div align="center">
+  <a href="mailto:engineer.naimul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdnaimul22/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
