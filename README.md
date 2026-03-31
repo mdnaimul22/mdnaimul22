@@ -34,6 +34,14 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+</p>
+
 ### 🏆 Achievement
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=mdnaimul22&theme=tokyonight&no-bg=true&margin-w=35&margin-h=20" alt="GitHub Trophies" />
@@ -42,7 +50,7 @@
 ---
 
 ### 📊 System Diagnostics
-<div align="center">
+<div align="left">
   <table border="0">
     <tr>
       <td colspan="2" align="center">
