@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=24&color=00FF88&background=FFC13700&center=true&vCenter=true&width=850&lines=Build+today+where+going+tomorrow.;The+best+ideas+come+from+listening.;Ship+smart%2C+iterate+fast.+Perfect+later." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=24&color=00FF88&background=FFC13700&center=true&vCenter=true&width=850&lines=Build+today+where+going+tomorrow.;The+best+ideas+come+from+listening.;Ship+smart%2C+iterate+fast.+Perfect+later.;Evolution+follows+effort%2C+not+just+intent.;Code+reflects+the+mind%3B+keep+it+clean.;The+only+limit+is+the+code+you+haven't+written+yet.;Automate+the+past+to+innovate+the+future.;Simple+is+hard%3B+complex+is+easy.;Design+is+how+it+works%2C+not+just+how+it+looks.;Continuous+learning+is+the+ultimate+evolution." alt="Typing SVG" /></a>
 </p>
 
 ---
